@@ -1,0 +1,12 @@
+C:\Users\Dusan\Documents\1FAKS\Osnovi Racunarske Inteligencije\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+C:\Users\Dusan\Documents\1FAKS\Osnovi Racunarske Inteligencije\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+C:\Users\Dusan\Documents\1FAKS\Osnovi Racunarske Inteligencije\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph-Dusan.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Documents\1FAKS\Osnovi Racunarske Inteligencije\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph-Dusan.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\Documents\1FAKS\Osnovi Racunarske Inteligencije\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+C:\Users\Dusan\Documents\1FAKS\Osnovi Racunarske Inteligencije\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+C:\Users\1040 G3\Desktop\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+C:\Users\1040 G3\Desktop\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+C:\Users\1040 G3\Desktop\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph-Dusan.csprojResolveAssemblyReference.cache
+C:\Users\1040 G3\Desktop\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph-Dusan.csproj.CoreCompileInputs.cache
+C:\Users\1040 G3\Desktop\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+C:\Users\1040 G3\Desktop\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb

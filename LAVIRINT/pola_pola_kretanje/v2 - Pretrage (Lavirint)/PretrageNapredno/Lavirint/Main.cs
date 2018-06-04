@@ -63,6 +63,9 @@ namespace Lavirint
 
         public static State pocetnoStanje = null;
         public static State krajnjeStanje = null;
+        public static State p1 = null;
+        public static State p2 = null;
+        public static State n1 = null;
 
 
         private void inicijalizacijaPretrage() {
@@ -85,6 +88,20 @@ namespace Lavirint
                         krajnjeStanje = new State();
                         krajnjeStanje.markI = i;
                         krajnjeStanje.markJ = j;
+                    } else if (tt == 4) {
+                        if (p1 == null && p2 == null) {
+                            p1 = new State( );
+                            p1.markI = i;
+                            p1.markJ = j;
+                        }else if (p1 != null && p2 == null) {
+                            p2 = new State( );
+                            p2.markI = i;
+                            p2.markJ = j;
+                        }
+                    } else if (tt == 5) {
+                        n1 = new State( );
+                        n1.markI = i;
+                        n1.markJ = j;
                     }
                 }
             }

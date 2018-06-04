@@ -10,8 +10,8 @@ namespace GentskiAlgoritmi
 {
     class GenetskiAlgoritam
     {
-        double MIN_X = 0;
-	    double MAX_X = 10;
+        double MIN_X = -10;
+	    double MAX_X = 5;
 	    int elitizam = 1;// 0 nema elitizma 1 sa elitizmom
 
 	    int broj_jedinki = 100;
@@ -30,7 +30,7 @@ namespace GentskiAlgoritmi
 
         public static double funkcija(double d)
         {
-            return Math.Sin(d / 5) + 0.1 * Math.Cos(10 * d);
+            return d * Math.Cos(d);
         }
 
         Random rand = new Random();
@@ -110,7 +110,7 @@ namespace GentskiAlgoritmi
                 for (int i = 0; i < broj_jedinki; i++)
                 {
                     generacija[i].ocena = funkcija(generacija[i].x);
-                    if (max_ocena < generacija[i].ocena)
+                    if (max_ocena > generacija[i].ocena)
                     {
                         max_ocena = generacija[i].ocena;
                         index_najboljeg = i;

@@ -12,3 +12,17 @@ C:\Users\1040 G3\Desktop\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi
 C:\Users\1040 G3\Desktop\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csproj.CoreCompileInputs.cache
 C:\Users\1040 G3\Desktop\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.exe
 C:\Users\1040 G3\Desktop\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.pdb
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\bin\Debug\GentskiAlgoritmi.exe
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\bin\Debug\GentskiAlgoritmi.pdb
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.JedinkaPanel.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Kodiranje.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.KodiranjePanel.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Main.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Populacija.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.PopulacijaPanel.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Properties.Resources.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Selekcija.resources
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csproj.GenerateResource.Cache
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csproj.CoreCompileInputs.cache
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.exe
+C:\Users\1040 G3\Desktop\ORI\GENETSKI\v3 - reseno\GenetskiAlgoritmi\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.pdb

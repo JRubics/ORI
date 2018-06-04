@@ -7,7 +7,7 @@ namespace GentskiAlgoritmi
 {
     public class Jedinka
     {
-        public static int MAXSTRING = 16;
+        public static int MAXSTRING = 9;
         public int MAX_INT;
         public double MIN_X;
         public double MAX_X;
